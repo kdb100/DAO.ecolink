@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/kdb100"
   },
-  "homepage": "https://github.com/toshendra/ethereum-erc20-token",
+  "homepage": "https://github.com/kdb100",
   "dependencies": {
     "truffle-hdwallet-provider": "0.0.3"
   },
