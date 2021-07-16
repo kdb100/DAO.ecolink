@@ -1,2 +1,2 @@
 # DAO-eth
- A Decentralised Autonomous Organiszation
+A Decentralized Autonomous Organisation - "DAO" Application in Ethereum Blockchain
