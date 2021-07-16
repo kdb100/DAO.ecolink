@@ -57,11 +57,11 @@ Test: Run npm -v. To check the version the of installed npm.
 
 * Clone the repository on your local machine.
 ```
-$ git clone https://github.com/blockchain-council/build-decentralized-democracy-dao-in-ethereum-solidity.git
+$ git clone https://github.com/kdb100/DAO.afta.git
 ```
 * "cd" into the cloned repository from command line.
 ```
-$ cd build-decentralized-democracy-dao-in-ethereum-solidity
+$ cd build-dao,afta
 ```
 * Then run the below command which lets the dependencies from package.json gets installed locally for this particular project. The major requirements are truffle, testrpc, babel-register and babel-polyfill.
 ```
