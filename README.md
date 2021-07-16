@@ -1,6 +1,9 @@
-<img width="676" alt="Screen Shot 2021-07-16 at 5 21 22 PM" src="https://user-images.githubusercontent.com/78291849/126009717-3054b32c-6812-4e03-86ca-146b6e53af78.png">
+
 # DAO-eth
 A Decentralized Autonomous Organisation - "DAO" Application in Ethereum Blockchain
+
+<img width="676" alt="Screen Shot 2021-07-16 at 5 21 22 PM" src="https://user-images.githubusercontent.com/78291849/126009717-3054b32c-6812-4e03-86ca-146b6e53af78.png">
+
 
 ## Getting Started
 
